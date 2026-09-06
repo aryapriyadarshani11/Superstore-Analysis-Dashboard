@@ -1,5 +1,4 @@
 # Superstore-Analysis-Dashboard
-Analysis of Superstore using Excel
 Sample Superstore Dataset consists of 
 columns 
 Row ID 
